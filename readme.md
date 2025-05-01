@@ -33,10 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
----
-
 ### 📊 Estadísticas de GitHub
 
 #### Lenguajes más utilizados
@@ -45,9 +41,8 @@
 #### GitHub Stats
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dgarzonac&show_icons=true&count_private=true&theme=dracula)
 
-
----
-
+#### Racha de Contribuciones
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Dgarzonac&theme=dracula)
 
 ---
 
