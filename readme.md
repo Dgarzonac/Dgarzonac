@@ -35,7 +35,7 @@
 
 ### 📊 GitHub Stats
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=**Dgarzonac**&show_icons=true&theme=dracula)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dgarzonac&show_icons=true&theme=dracula)
 
 ---
 
