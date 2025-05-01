@@ -49,7 +49,7 @@
 
 ### 🤝 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/daniel-felipe-garzon-acosta](https://www.linkedin.com/in/daniel-felipe-garzon-acosta-4b6a24268/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-felipe-garzon-acosta-4b6a24268/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielgarzon9)  
 
 ---
