@@ -36,15 +36,13 @@
 ### 📊 GitHub Stats
 
 #### Lenguajes más utilizados:
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgarzon&layout=compact&theme=dracula)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Dgarzonac&layout=compact&theme=dracula)
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dgarzonac&show_icons=true&theme=dracula)
 
 #### Contribuciones Totales
-![Total Contributions](https://github-readme-stats.vercel.app/api?username=danielgarzon&show_icons=true&count_private=true&theme=dracula)
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=Dgarzonac&show_icons=true&count_private=true&theme=dracula)
 
-#### Rachas de Contribuciones
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielgarzon&theme=dracula)
 
 ---
 
